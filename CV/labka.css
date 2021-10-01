@@ -1,0 +1,78 @@
+.avatar {
+  float:left;
+  width: 180px;
+  border-radius: 70%;
+  box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.25);
+  margin-top: 8px;
+  margin-left: 80px; 
+}
+.rectangle {
+	 bottom: 15px;
+	 right: 7px;
+  	 background-color: wheat;
+     width: 400px;
+     height: 1000px;
+
+}
+.ss { 
+	margin-top:20px;
+}
+h3 {
+  	margin-left: 20px;
+  	margin-bottom: 10px;
+}
+.w {
+	text-align: center;
+}
+.first {
+	color: gray;
+	position: absolute;
+	margin-bottom: 4000px;
+	margin-left: 600px;
+	font-size: 70px;
+}
+.second {
+	color: wheat;
+	position: absolute;
+	margin-bottom: 4000px;
+	margin-left: 960px;
+	font-size: 70px;
+}
+.qwerty {
+	position: absolute;
+	margin-left: 900px;
+	margin-top: 150px;
+	font-size: 40px;
+	color: gray;
+}
+.textt {
+	position: absolute;
+	margin-top: 350px;
+	margin-left: 500px;
+	font-size:25px;
+}
+.f {
+	position: absolute;
+	margin-top: 550px;
+	margin-left: 500px;
+	font-size:25px;
+}
+.q {
+	position: absolute;
+	margin-top: 300px;
+	margin-left: 850px;
+	font-size:25px;
+}
+.aaa {
+	margin-left: 25px;
+}
+.qwer {
+	position: absolute;
+	margin-top: 750px;
+	margin-left: 490px;
+	font-size:40px;
+}
+.asdf {
+ 	font-size: 15px;
+ 	margin-left: 7px;
+{
